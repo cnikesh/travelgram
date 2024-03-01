@@ -1,28 +1,22 @@
 # Travelgram
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
+A social media for posting travel pictures developed with Angular and Firebase.
 
-## Development server
+## Home Screen
+
+Users can see posts from other users in the app.
+
 ![image](https://github.com/cnikesh/travelgram/assets/42144202/2ee66360-1bae-44dd-8880-9661bda868b4)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Creating a Post
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+A form for creating new post with image and description.
+![image](https://github.com/cnikesh/travelgram/assets/42144202/f6b3d0b8-a1e1-4643-892b-8f40b2ca4f6f)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Sign In and Sign Up
 
-## Running unit tests
+Authentication using firebase
+![image](https://github.com/cnikesh/travelgram/assets/42144202/ab4582f3-f282-415f-907c-96bad857d65d)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
